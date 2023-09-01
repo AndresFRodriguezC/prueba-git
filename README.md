@@ -9,4 +9,4 @@ Pueden hacer lo que quieran...
 ### Actualizando desde GitHub
 Este es un mensaje editado completamente desde GitHub
 
-## Estos Cambios son nuevos
+## Estos Cambios son nuevos desde github
